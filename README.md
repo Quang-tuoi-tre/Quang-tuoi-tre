@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hồ Nhật Quang</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400px"src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400px" src"https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quang-tuoi-tre&label=Profile%20views&color=0e75b6&style=flat" alt="quang-tuoi-tre" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hoquang35034" target="blank"><img src="https://img.shields.io/twitter/follow/hoquang35034?logo=twitter&style=for-the-badge" alt="hoquang35034" /></a> </p>
@@ -21,9 +21,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hoquang35034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoquang35034" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nhật quang hồ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhật quang hồ" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/quang-tuổi-trẻ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="quang-tuổi-trẻ" height="30" width="40" /></a>
-<a href="https://fb.com/hồ nhật quang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hồ nhật quang" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nhật-quang-hồ-785919275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhật quang hồ" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22632019/quang-tuổi-trẻ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="quang-tuổi-trẻ" height="30" width="40" /></a>
+<a href="https://fb.com/One.champ.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hồ nhật quang" height="30" width="40" /></a>
 <a href="https://instagram.com/quangtuoitree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quangtuoitree" height="30" width="40" /></a>
 </p>
 
