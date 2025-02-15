@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hồ Nhật Quang</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400px" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400px" src="https://cdn.tgdd.vn/Files/2018/07/06/1099621/front-end-developers-openings_680x428.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quang-tuoi-tre&label=Profile%20views&color=0e75b6&style=flat" alt="quang-tuoi-tre" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hoquang35034" target="blank"><img src="https://img.shields.io/twitter/follow/hoquang35034?logo=twitter&style=for-the-badge" alt="hoquang35034" /></a> </p>
