@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hoquang35034" target="blank"><img src="https://img.shields.io/twitter/follow/hoquang35034?logo=twitter&style=for-the-badge" alt="hoquang35034" /></a> </p>
 
-- 🔭 I’m currently working on [Lab22](https://github.com/Quang-tuoi-tre/Lab22)
+- 🔭 I’m currently working on [sample-larvavel-app](https://github.com/Quang-tuoi-tre/sample-laravel-app)
 
 - 🌱 I’m currently learning **HTML, CSS, JAVA**
 
